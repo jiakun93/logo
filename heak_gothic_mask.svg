@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700');
+    </style>
+    <mask id="text-mask">
+      <rect width="128" height="128" fill="white"/>
+      <text x="50%" y="50%" font-size="32" font-family="UnifrakturCook, serif"
+            text-anchor="middle" dominant-baseline="middle" fill="black">Heak</text>
+    </mask>
+  </defs>
+  <rect width="128" height="128" fill="black" mask="url(#text-mask)" />
+</svg>
